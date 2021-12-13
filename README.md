@@ -6,8 +6,8 @@ Currently, I've been studying some technologies like React and keeping the bases
 
 <div align="center">
   <a href="https://github.com/carolina-abe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolina-abe&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-abe&layout=compact&langs_count=7&theme=panda"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carolina-abe&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolina-abe&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
