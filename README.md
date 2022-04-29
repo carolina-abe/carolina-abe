@@ -22,7 +22,7 @@ Currently, I've been studying some technologies like React and keeping the bases
   
 ##
 ## Contact me 
-  If you want talk to me, here is where you can find me or just put a cat and I'll show up 😸
+  If you want to talk to me, here is where you can find me or just put a cat and I'll show up 😸
 <div> 
   <a href = "mailto:carolina.abe.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolina-abe-11687318a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
